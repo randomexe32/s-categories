@@ -1,0 +1,904 @@
+
+{
+  "3": {
+    "fac": {
+      "category": "Face Features",
+      "words": [
+        "eye",
+        "jaw",
+        "ear"
+      ]
+    },
+    "bod": {
+      "category": "Body Parts",
+      "words": [
+        "arm",
+        "abs",
+        "jaw",
+        "ear",
+        "fat"
+      ]
+    },
+    "ani": {
+      "category": "Animals",
+      "words": [
+        "ant",
+        "bat",
+        "bee",
+        "cat",
+        "cow",
+        "dog",
+        "eel",
+        "elk",
+        "emu",
+        "fox",
+        "hen",
+        "owl",
+        "pig",
+        "fly",
+        "bug"
+      ]
+    },
+    "fla": {
+      "category": "Flags/Countries",
+      "words": [
+        "USA"
+      ]
+    },
+    "pro": {
+      "category": "Professions",
+      "words": [
+        "nun"
+      ]
+    },
+    "foo": {
+      "category": "Foods",
+      "words": [
+        "bun",
+        "egg",
+        "ham",
+        "jam",
+        "pie",
+        "pho",
+        "fig",
+        "nut",
+        "gum",
+        "BLT"
+      ]
+    },
+    "dri": {
+      "category": "Drinks",
+      "words": [
+        "pop"
+      ]
+    },
+    "spo": {
+      "category": "Sports",
+      "words": [
+        "BMX",
+        "NBA",
+        "NFL",
+        "gym",
+        "bat",
+        "hit",
+        "lap",
+        "WWE"
+      ]
+    },
+    "clo": {
+      "category": "Clothes",
+      "words": [
+        "bra",
+        "cap",
+        "hat"
+      ]
+    },
+    "tec": {
+      "category": "Technology",
+      "words": [
+        "AFK",
+        "ATV",
+        "CPU",
+        "LAN",
+        "Mac",
+        "USB",
+        "app",
+        "bot",
+        "fan"
+      ]
+    },
+    "nat": {
+      "category": "Nature",
+      "words": [
+        "ash",
+        "dew",
+        "fog",
+        "ice",
+        "ivy",
+        "log",
+        "mud",
+        "oak",
+        "oil",
+        "air",
+        "bay",
+        "day",
+        "fly",
+        "bug"
+      ]
+    },
+    "veh": {
+      "category": "Vehicles",
+      "words": [
+        "BMW",
+        "SUV",
+        "bus",
+        "car",
+        "ATV"
+      ]
+    },
+    "bui": {
+      "category": "Buildings/Places",
+      "words": [
+        "bar",
+        "dam",
+        "den",
+        "hut",
+        "gym",
+        "bay"
+      ]
+    },
+    "mus": {
+      "category": "Music",
+      "words": [
+        "MTV",
+        "amp",
+        "pop",
+        "jam"
+      ]
+    },
+    "emo": {
+      "category": "Emotions/States",
+      "words": [
+        "cry",
+        "joy",
+        "sad",
+        "bad",
+        "hot",
+        "low",
+        "new",
+        "old",
+        "dry"
+      ]
+    },
+    "cha": {
+      "category": "Characters",
+      "words": [
+        "God",
+        "Gru",
+        "elf",
+        "imp",
+        "man",
+        "boy"
+      ]
+    },
+    "spa": {
+      "category": "Space",
+      "words": [
+        "UFO"
+      ]
+    },
+    "wea": {
+      "category": "Weapons",
+      "words": [
+        "axe",
+        "bow",
+        "gun",
+        "hit"
+      ]
+    },
+    "too": {
+      "category": "Tools",
+      "words": [
+        "axe",
+        "hoe",
+        "key",
+        "map",
+        "mop",
+        "pad",
+        "pen",
+        "pin",
+        "bow",
+        "can",
+        "jar"
+      ]
+    },
+    "act": {
+      "category": "Actions",
+      "words": [
+        "cut",
+        "dab",
+        "dig",
+        "dip",
+        "dry",
+        "dye",
+        "eat",
+        "fly",
+        "fry",
+        "hit",
+        "hop",
+        "hug",
+        "mow",
+        "nod"
+      ]
+    },
+    "con": {
+      "category": "Containers",
+      "words": [
+        "bag",
+        "box",
+        "can",
+        "jar",
+        "jug",
+        "keg",
+        "lid",
+        "mug",
+        "pan",
+        "cup"
+      ]
+    },
+    "mat": {
+      "category": "Materials",
+      "words": [
+        "fur",
+        "gas",
+        "gum",
+        "ink",
+        "oil",
+        "ice",
+        "mud",
+        "ash",
+        "gem"
+      ]
+    },
+    "gam": {
+      "category": "Games",
+      "words": [
+        "GTA"
+      ]
+    },
+    "bra": {
+      "category": "Brands",
+      "words": [
+        "BMW",
+        "KFC",
+        "MTV",
+        "Mac"
+      ]
+    }
+  },
+  "4": {
+    "fac": {
+      "category": "Face Features",
+      "words": [
+        "chin",
+        "face",
+        "lips",
+        "nose"
+      ]
+    },
+    "bod": {
+      "category": "Body Parts",
+      "words": [
+        "back",
+        "bone",
+        "foot",
+        "hand",
+        "heel",
+        "knee",
+        "neck",
+        "skin"
+      ]
+    },
+    "ani": {
+      "category": "Animals",
+      "words": [
+        "bear",
+        "bird",
+        "boar",
+        "bull",
+        "clam",
+        "crab",
+        "deer",
+        "dove",
+        "duck",
+        "fish",
+        "flea",
+        "frog",
+        "goat",
+        "lion",
+        "mole",
+        "moth",
+        "mule",
+        "puma",
+        "seal",
+        "toad",
+        "wolf",
+        "worm"
+      ]
+    },
+    "fla": {
+      "category": "Flags/Countries",
+      "words": [
+        "Asia",
+        "Cuba",
+        "Iran",
+        "Peru",
+        "Rome"
+      ]
+    },
+    "pro": {
+      "category": "Professions",
+      "words": [
+        "chef",
+        "cook",
+        "king",
+        "maid",
+        "monk"
+      ]
+    },
+    "foo": {
+      "category": "Foods",
+      "words": [
+        "beef",
+        "cake",
+        "corn",
+        "crab",
+        "fish",
+        "food",
+        "milk",
+        "pear",
+        "pork",
+        "rice",
+        "salt",
+        "soup",
+        "taco"
+      ]
+    },
+    "dri": {
+      "category": "Drinks",
+      "words": [
+        "beer",
+        "cola",
+        "milk",
+        "soda"
+      ]
+    },
+    "spo": {
+      "category": "Sports",
+      "words": [
+        "golf"
+      ]
+    },
+    "clo": {
+      "category": "Clothes",
+      "words": [
+        "belt",
+        "coat",
+        "robe",
+        "shoe",
+        "vest"
+      ]
+    },
+    "tec": {
+      "category": "Technology",
+      "words": [
+        "code"
+      ]
+    },
+    "nat": {
+      "category": "Nature",
+      "words": [
+        "bush",
+        "cave",
+        "dirt",
+        "fire",
+        "foam",
+        "gold",
+        "hill",
+        "lake",
+        "leaf",
+        "moss",
+        "rain",
+        "rock",
+        "sand",
+        "snow",
+        "soil",
+        "star",
+        "tree",
+        "wind"
+      ]
+    },
+    "veh": {
+      "category": "Vehicles",
+      "words": [
+        "boat",
+        "jeep",
+        "ship",
+        "tram"
+      ]
+    },
+    "bui": {
+      "category": "Buildings/Places",
+      "words": [
+        "bank",
+        "base",
+        "cafe",
+        "camp",
+        "city",
+        "dock",
+        "farm",
+        "gate",
+        "mall",
+        "park",
+        "road",
+        "room",
+        "shop",
+        "town"
+      ]
+    },
+    "mus": {
+      "category": "Music",
+      "words": [
+        "band",
+        "bass",
+        "drum",
+        "jazz",
+        "rock",
+        "song"
+      ]
+    },
+    "emo": {
+      "category": "Emotions/States",
+      "words": [
+        "cold",
+        "dark",
+        "dead",
+        "good",
+        "love",
+        "mean",
+        "safe",
+        "tall",
+        "thin",
+        "warm"
+      ]
+    },
+    "cha": {
+      "category": "Characters",
+      "words": [
+        "baby",
+        "girl",
+        "hero",
+        "king",
+        "lady",
+        "monk"
+      ]
+    },
+    "spa": {
+      "category": "Space",
+      "words": [
+        "star"
+      ]
+    },
+    "wea": {
+      "category": "Weapons",
+      "words": [
+        "bomb",
+        "tank"
+      ]
+    },
+    "too": {
+      "category": "Tools",
+      "words": [
+        "bell",
+        "book",
+        "bowl",
+        "door",
+        "fork",
+        "hook",
+        "lamp",
+        "nail",
+        "rope"
+      ]
+    },
+    "act": {
+      "category": "Actions",
+      "words": [
+        "bend",
+        "bite",
+        "blow",
+        "burn",
+        "clap",
+        "drag",
+        "jump",
+        "kick",
+        "kill",
+        "kiss",
+        "read",
+        "sing",
+        "walk",
+        "wash"
+      ]
+    },
+    "con": {
+      "category": "Containers",
+      "words": [
+        "bowl",
+        "case",
+        "cell",
+        "cone",
+        "cork",
+        "dish"
+      ]
+    },
+    "mat": {
+      "category": "Materials",
+      "words": [
+        "acid",
+        "clay",
+        "coal",
+        "fuel",
+        "iron",
+        "lead",
+        "lime",
+        "soap"
+      ]
+    },
+    "gam": {
+      "category": "Games",
+      "words": [
+        "Pong"
+      ]
+    },
+    "bra": {
+      "category": "Brands",
+      "words": [
+        "Audi",
+        "Doge",
+        "Fifa",
+        "Finn",
+        "Hulk",
+        "Ikea",
+        "Jaws",
+        "JayZ",
+        "Jedi",
+        "Lego",
+        "Nasa",
+        "Nike",
+        "Olaf",
+        "Oreo",
+        "Rick",
+        "Thor",
+        "Xbox",
+        "Yoda"
+      ]
+    }
+  },
+  "5": {
+    "fac": {
+      "category": "Face Features",
+      "words": [
+        "cheek",
+        "smile",
+        "drool",
+        "frown"
+      ]
+    },
+    "bod": {
+      "category": "Body Parts",
+      "words": [
+        "ankle",
+        "elbow",
+        "heart",
+        "kneel",
+        "liver",
+        "mouth",
+        "wrist"
+      ]
+    },
+    "ani": {
+      "category": "Animals",
+      "words": [
+        "bison",
+        "camel",
+        "goose",
+        "horse",
+        "koala",
+        "llama",
+        "otter",
+        "panda",
+        "shrew",
+        "skunk",
+        "whale",
+        "zebra"
+      ]
+    },
+    "fla": {
+      "category": "Flags/Countries",
+      "words": [
+        "Chile",
+        "China",
+        "Egypt",
+        "India",
+        "Italy",
+        "Japan",
+        "Nepal",
+        "Paris",
+        "Spain",
+        "Texas",
+        "Wales"
+      ]
+    },
+    "pro": {
+      "category": "Professions",
+      "words": [
+        "actor",
+        "clerk",
+        "coach",
+        "judge",
+        "nurse",
+        "pilot"
+      ]
+    },
+    "foo": {
+      "category": "Foods",
+      "words": [
+        "apple",
+        "bacon",
+        "bagel",
+        "beans",
+        "bread",
+        "candy",
+        "chips",
+        "curry",
+        "donut",
+        "fruit",
+        "lemon",
+        "melon",
+        "pasta",
+        "peach",
+        "pecan",
+        "pizza",
+        "prune",
+        "salad",
+        "salsa",
+        "sauce",
+        "sugar",
+        "sushi"
+      ]
+    },
+    "dri": {
+      "category": "Drinks",
+      "words": [
+        "Fanta",
+        "juice",
+        "Pepsi",
+        "vodka"
+      ]
+    },
+    "spo": {
+      "category": "Sports",
+      "words": [
+        "chess",
+        "fence",
+        "gamer",
+        "poker"
+      ]
+    },
+    "clo": {
+      "category": "Clothes",
+      "words": [
+        "apron",
+        "beret",
+        "boots",
+        "cloak",
+        "dress",
+        "glove",
+        "pants",
+        "scarf",
+        "shirt",
+        "socks"
+      ]
+    },
+    "tec": {
+      "category": "Technology",
+      "words": [
+        "email",
+        "laser",
+        "radio",
+        "robot",
+        "virus"
+      ]
+    },
+    "nat": {
+      "category": "Nature",
+      "words": [
+        "algae",
+        "amber",
+        "beach",
+        "birch",
+        "blaze",
+        "coral",
+        "creek",
+        "daisy",
+        "field",
+        "flock",
+        "globe",
+        "grass",
+        "lemon",
+        "maple",
+        "ocean",
+        "pearl",
+        "petal",
+        "plank",
+        "plant",
+        "river",
+        "storm",
+        "sunny",
+        "swamp"
+      ]
+    },
+    "veh": {
+      "category": "Vehicles",
+      "words": [
+        "cabin",
+        "cable",
+        "camel",
+        "canoe",
+        "cargo",
+        "coach",
+        "plane",
+        "sedan",
+        "train"
+      ]
+    },
+    "bui": {
+      "category": "Buildings/Places",
+      "words": [
+        "cabin",
+        "court",
+        "house",
+        "hotel",
+        "lobby"
+      ]
+    },
+    "mus": {
+      "category": "Music",
+      "words": [
+        "banjo",
+        "flute",
+        "piano"
+      ]
+    },
+    "emo": {
+      "category": "Emotions/States",
+      "words": [
+        "angry",
+        "crazy",
+        "dizzy",
+        "funny",
+        "happy",
+        "scary",
+        "tired"
+      ]
+    },
+    "cha": {
+      "category": "Characters",
+      "words": [
+        "Bambi",
+        "Bible",
+        "Cupid",
+        "Dumbo",
+        "Goofy",
+        "Hades",
+        "Hydra",
+        "Kirby",
+        "Luigi",
+        "Mario",
+        "Morty",
+        "Mummy",
+        "Notch",
+        "Pluto",
+        "Pumba",
+        "Santa",
+        "Satan",
+        "Shrek",
+        "Sonic",
+        "T-rex",
+        "Tails",
+        "Trump",
+        "Venus",
+        "Wario",
+        "Yoshi",
+        "Zelda"
+      ]
+    },
+    "spa": {
+      "category": "Space",
+      "words": [
+        "comet",
+        "Pluto",
+        "Venus"
+      ]
+    },
+    "wea": {
+      "category": "Weapons",
+      "words": [
+        "arrow",
+        "rifle",
+        "spear",
+        "sword"
+      ]
+    },
+    "too": {
+      "category": "Tools",
+      "words": [
+        "brush",
+        "drill",
+        "knife",
+        "ladle",
+        "laser",
+        "screw",
+        "spoon"
+      ]
+    },
+    "act": {
+      "category": "Actions",
+      "words": [
+        "dance",
+        "drive",
+        "laugh",
+        "kneel",
+        "shout",
+        "swing"
+      ]
+    },
+    "con": {
+      "category": "Containers",
+      "words": [
+        "flask"
+      ]
+    },
+    "mat": {
+      "category": "Materials",
+      "words": [
+        "algae",
+        "amber",
+        "armor",
+        "cloth",
+        "glass",
+        "metal",
+        "plank"
+      ]
+    },
+    "gam": {
+      "category": "Games",
+      "words": [
+        "Catan",
+        "bingo",
+        "chess",
+        "poker"
+      ]
+    },
+    "bra": {
+      "category": "Brands",
+      "words": [
+        "AC/DC",
+        "Fanta",
+        "Honda",
+        "Intel",
+        "Tesla",
+        "Xerox"
+      ]
+    } 
+  }
+}
