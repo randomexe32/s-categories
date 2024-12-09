@@ -1360,6 +1360,430 @@
 "Twitch"
 ]
 }
-}
+},
+
+  "7": {
+    "fac": {
+      "category": "Face Features",
+      "words": [
+        "eyebrow",
+        "eyelash",
+        "stubble",
+        "unibrow"
+      ]
+    },
+    "bod": {
+      "category": "Body Parts",
+      "words": [
+        "forearm",
+        "knuckle",
+        "stomach",
+        "toenail"
+      ]
+    },
+    "ani": {
+      "category": "Animals",
+      "words": [
+        "anchovy",
+        "buffalo",
+        "bulldog",
+        "catfish",
+        "cheetah",
+        "dolphin",
+        "echidna",
+        "giraffe",
+        "gorilla",
+        "griffin",
+        "hamster",
+        "ladybug",
+        "leopard",
+        "manatee",
+        "meerkat",
+        "narwhal",
+        "octopus",
+        "ostrich",
+        "peacock",
+        "pelican",
+        "penguin",
+        "phoenix",
+        "raccoon",
+        "reptile",
+        "rooster",
+        "seagull",
+        "tadpole",
+        "unicorn",
+        "vulture"
+      ]
+    },
+    "fla": {
+      "category": "Flags/Countries",
+      "words": [
+        "Algeria",
+        "America",
+        "Austria",
+        "Bahamas",
+        "Beijing",
+        "Britain",
+        "Croatia",
+        "Denmark",
+        "England",
+        "Finland",
+        "Germany",
+        "Hungary",
+        "Ireland",
+        "Morocco",
+        "Pacific",
+        "Pompeii",
+        "Romania",
+        "Siberia",
+        "Somalia",
+        "Ukraine",
+        "Vatican",
+        "Vietnam"
+      ]
+    },
+    "pro": {
+      "category": "Professions",
+      "words": [
+        "actress",
+        "athlete",
+        "bouncer",
+        "burglar",
+        "butcher",
+        "cashier",
+        "captain",
+        "climber",
+        "cyclist",
+        "dentist",
+        "florist",
+        "janitor",
+        "mailman",
+        "Marines",
+        "peasant",
+        "pianist",
+        "plumber",
+        "referee",
+        "samurai",
+        "sheriff",
+        "soldier",
+        "student",
+        "surgeon",
+        "teacher",
+        "tourist",
+        "vlogger",
+        "warrior"
+      ]
+    },
+    "foo": {
+      "category": "Foods",
+      "words": [
+        "alcohol",
+        "apricot",
+        "avocado",
+        "baklava",
+        "biscuit",
+        "brownie",
+        "burrito",
+        "cabbage",
+        "caramel",
+        "Cheetos",
+        "chicken",
+        "coconut",
+        "cracker",
+        "cupcake",
+        "dessert",
+        "Doritos",
+        "falafel",
+        "ketchup",
+        "lettuce",
+        "mustard",
+        "Nutella",
+        "oatmeal",
+        "pancake",
+        "parsley",
+        "popcorn",
+        "poutine",
+        "pretzel",
+        "protein",
+        "pudding",
+        "ravioli",
+        "sausage",
+        "seafood",
+        "spinach",
+        "vanilla"
+      ]
+    },
+    "dri": {
+      "category": "Drinks",
+      "words": [
+        "seltzer",
+        "whiskey"
+      ]
+    },
+    "spo": {
+      "category": "Sports",
+      "words": [
+        "bobsled",
+        "bowling",
+        "fencing",
+        "workout"
+      ]
+    },
+    "clo": {
+      "category": "Clothes",
+      "words": [
+        "bandana",
+        "clothes",
+        "sandals",
+        "sweater",
+        "T-shirt",
+        "uniform",
+        "wetsuit"
+      ]
+    },
+    "tec": {
+      "category": "Technology",
+      "words": [
+        "AirPods",
+        "Android",
+        "antenna",
+        "barcode",
+        "battery",
+        "charger",
+        "circuit",
+        "console",
+        "Discord",
+        "display",
+        "earbuds",
+        "Firefox",
+        "Netflix",
+        "network",
+        "printer",
+        "Samsung",
+        "speaker",
+        "Twitter",
+        "website",
+        "Windows"
+      ]
+    },
+    "nat": {
+      "category": "Nature",
+      "words": [
+        "anthill",
+        "antlers",
+        "blossom",
+        "boulder",
+        "eclipse",
+        "equator",
+        "firefly",
+        "glacier",
+        "iceberg",
+        "lilypad",
+        "orchard",
+        "rainbow",
+        "savanna",
+        "seaweed",
+        "sunrise",
+        "thunder",
+        "tornado",
+        "tsunami",
+        "volcano",
+        "weather"
+      ]
+    },
+    "veh": {
+      "category": "Vehicles",
+      "words": [
+        "airport",
+        "airship",
+        "bicycle",
+        "Ferrari",
+        "minivan",
+        "Porsche",
+        "racecar",
+        "tractor",
+        "trailer",
+        "tugboat",
+        "vehicle"
+      ]
+    },
+    "bui": {
+      "category": "Buildings/Places",
+      "words": [
+        "balcony",
+        "bedroom",
+        "ceiling",
+        "college",
+        "factory",
+        "gallery",
+        "hallway",
+        "highway",
+        "kitchen",
+        "library",
+        "mansion",
+        "stadium",
+        "suburbs",
+        "theatre",
+        "village"
+      ]
+    },
+    "mus": {
+      "category": "Music",
+      "words": [
+        "beatbox",
+        "karaoke",
+        "maracas",
+        "marimba",
+        "ocarina",
+        "timpani",
+        "trumpet",
+        "ukulele",
+        "whistle"
+      ]
+    },
+    "emo": {
+      "category": "Emotions/States",
+      "words": [
+        "excited",
+        "failure",
+        "furious",
+        "healthy",
+        "jealous",
+        "nothing",
+        "seasick",
+        "silence"
+      ]
+    },
+    "cha": {
+      "category": "Characters",
+      "words": [
+        "Aladdin",
+        "Aquaman",
+        "Asterix",
+        "Bigfoot",
+        "centaur",
+        "Creeper",
+        "cyclops",
+        "Dracula",
+        "Gandalf",
+        "goddess",
+        "mermaid",
+        "Patrick",
+        "Pegasus",
+        "Picasso",
+        "Pikachu",
+        "Pokemon",
+        "toddler",
+        "vampire",
+        "villain",
+        "Waluigi"
+      ]
+    },
+    "spa": {
+      "category": "Space",
+      "words": [
+        "Jupiter",
+        "Mercury",
+        "Neptune"
+      ]
+    },
+    "wea": {
+      "category": "Weapons",
+      "words": [
+        "bayonet",
+        "bazooka",
+        "grenade",
+        "machete",
+        "missile",
+        "pickaxe",
+        "scalpel",
+        "shotgun",
+        "torpedo",
+        "trigger"
+      ]
+    },
+    "too": {
+      "category": "Tools",
+      "words": [
+        "ashtray",
+        "blender",
+        "compass",
+        "dishrag",
+        "lighter",
+        "notepad",
+        "plunger",
+        "spatula",
+        "stapler",
+        "toolbox"
+      ]
+    },
+    "act": {
+      "category": "Actions",
+      "words": [
+        "assault",
+        "capture",
+        "massage",
+        "protect",
+        "protest",
+        "refresh",
+        "whisper"
+      ]
+    },
+    "con": {
+      "category": "Containers",
+      "words": [
+        "cabinet",
+        "capsule",
+        "luggage",
+        "mailbox",
+        "shoebox"
+      ]
+    },
+    "mat": {
+      "category": "Materials",
+      "words": [
+        "crystal",
+        "diamond",
+        "emerald",
+        "leather",
+        "plastic",
+        "tinfoil",
+        "vinegar"
+      ]
+    },
+    "gam": {
+      "category": "Games",
+      "words": [
+        "Frogger",
+        "hangman",
+        "Pac-Man",
+        "pinball",
+        "Pokemon",
+        "Yahtzee"
+      ]
+    },
+    "bra": {
+      "category": "Brands",
+      "words": [
+        "AirPods",
+        "Android",
+        "Bitcoin",
+        "Cheetos",
+        "Discord",
+        "Doritos",
+        "Ferrari",
+        "Firefox",
+        "MrBeast",
+        "Netflix",
+        "Nutella",
+        "Porsche",
+        "Samsung",
+        "Spotify",
+        "Twitter",
+        "Windows",
+        "Youtube"
+      ]
+    }
+  }
   
 }
