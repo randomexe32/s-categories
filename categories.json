@@ -2067,6 +2067,341 @@
         "WhatsApp"
       ]
     }
+  },
+"9": {
+    "fac": {
+      "category": "Face Features",
+      "words": [
+        "nosebleed",
+        "sideburns"
+      ]
+    },
+    "bod": {
+      "category": "Body Parts",
+      "words": [
+        "fingertip"
+      ]
+    },
+    "ani": {
+      "category": "Animals",
+      "words": [
+        "albatross",
+        "alligator",
+        "armadillo",
+        "butterfly",
+        "centipede",
+        "chameleon",
+        "chihuahua",
+        "clownfish",
+        "cockroach",
+        "crocodile",
+        "dalmatian",
+        "dragonfly",
+        "groundhog",
+        "herbivore",
+        "jellyfish",
+        "millipede",
+        "orangutan",
+        "porcupine",
+        "swordfish",
+        "tarantula"
+      ]
+    },
+    "fla": {
+      "category": "Flags/Countries",
+      "words": [
+        "Amsterdam",
+        "Argentina",
+        "Australia",
+        "Barcelona",
+        "Greenland",
+        "Hollywood",
+        "Indonesia",
+        "Singapore"
+      ]
+    },
+    "pro": {
+      "category": "Professions",
+      "words": [
+        "alchemist",
+        "architect",
+        "astronaut",
+        "ballerina",
+        "bartender",
+        "cameraman",
+        "carpenter",
+        "commander",
+        "conductor",
+        "detective",
+        "filmmaker",
+        "fisherman",
+        "gentleman",
+        "librarian",
+        "passenger",
+        "policeman",
+        "president",
+        "principal",
+        "professor",
+        "scientist",
+        "spelunker",
+        "zookeeper"
+      ]
+    },
+    "foo": {
+      "category": "Foods",
+      "words": [
+        "artichoke",
+        "blueberry",
+        "breakfast",
+        "casserole",
+        "chocolate",
+        "cranberry",
+        "croissant",
+        "guacamole",
+        "hamburger",
+        "margarine",
+        "marmalade",
+        "merengues",
+        "pepperoni",
+        "pineapple",
+        "pistachio",
+        "spaghetti",
+        "starfruit",
+        "tangerine",
+        "vegetable"
+      ]
+    },
+    "dri": {
+      "category": "Drinks",
+      "words": [
+        "champagne",
+        "milkshake",
+        "saltwater"
+      ]
+    },
+    "spo": {
+      "category": "Sports",
+      "words": [
+        "badminton",
+        "billiards",
+        "paintball",
+        "skydiving",
+        "snowboard",
+        "surfboard",
+        "wrestling"
+      ]
+    },
+    "clo": {
+      "category": "Clothes",
+      "words": [
+        "stockings",
+        "underwear"
+      ]
+    },
+    "tec": {
+      "category": "Technology",
+      "words": [
+        "animation",
+        "antivirus",
+        "blueprint",
+        "broadcast",
+        "clickbait",
+        "generator",
+        "Instagram",
+        "invention",
+        "lightbulb",
+        "Microsoft",
+        "microwave",
+        "Photoshop",
+        "radiation",
+        "satellite",
+        "telephone",
+        "telescope"
+      ]
+    },
+    "nat": {
+      "category": "Nature",
+      "words": [
+        "avalanche",
+        "beanstalk",
+        "cornfield",
+        "dandelion",
+        "evaporate",
+        "frostbite",
+        "landscape",
+        "landslide",
+        "lightning",
+        "meteorite",
+        "quicksand",
+        "sandstorm",
+        "snowflake",
+        "snowstorm",
+        "sunflower",
+        "waterfall",
+        "whirlpool"
+      ]
+    },
+    "veh": {
+      "category": "Vehicles",
+      "words": [
+        "ambulance",
+        "bulldozer",
+        "Chevrolet",
+        "excavator",
+        "limousine",
+        "spaceship",
+        "speedboat",
+        "streetcar",
+        "submarine"
+      ]
+    },
+    "bui": {
+      "category": "Buildings/Places",
+      "words": [
+        "apartment",
+        "cathedral",
+        "classroom",
+        "Chinatown",
+        "Colosseum",
+        "continent",
+        "dollhouse",
+        "firehouse",
+        "graveyard",
+        "nightclub",
+        "peninsula",
+        "treehouse",
+        "warehouse",
+        "wasteland",
+        "workplace"
+      ]
+    },
+    "mus": {
+      "category": "Music",
+      "words": [
+        "accordion",
+        "Beethoven",
+        "castanets",
+        "harmonica",
+        "orchestra",
+        "saxophone"
+      ]
+    },
+    "emo": {
+      "category": "Emotions/States",
+      "words": [
+        "abandoned",
+        "delicious",
+        "depressed",
+        "desperate",
+        "exhausted",
+        "extravert",
+        "hilarious",
+        "incognito",
+        "introvert",
+        "invisible",
+        "possessed"
+      ]
+    },
+    "cha": {
+      "category": "Characters",
+      "words": [
+        "Bomberman",
+        "Chewbacca",
+        "Pinocchio",
+        "Spiderman",
+        "SpongeBob",
+        "Spartacus",
+        "Squidward",
+        "Teletubby",
+        "Wolverine"
+      ]
+    },
+    "spa": {
+      "category": "Space",
+      "words": [
+        "Capricorn"
+      ]
+    },
+    "wea": {
+      "category": "Weapons",
+      "words": [
+        "blowtorch",
+        "Excalibur",
+        "gunpowder",
+        "nunchucks",
+        "pitchfork",
+        "slingshot"
+      ]
+    },
+    "too": {
+      "category": "Tools",
+      "words": [
+        "clipboard",
+        "corkscrew",
+        "hairbrush",
+        "headboard",
+        "hourglass",
+        "magnifier",
+        "megaphone",
+        "paperclip",
+        "periscope",
+        "sprinkler",
+        "stopwatch",
+        "toothpick",
+        "yardstick"
+      ]
+    },
+    "act": {
+      "category": "Actions",
+      "words": [
+        "brainwash",
+        "celebrate",
+        "handshake",
+        "handstand",
+        "hibernate",
+        "hypnotize",
+        "injection",
+        "photobomb",
+        "recycling",
+        "signature",
+        "sleepwalk",
+        "translate"
+      ]
+    },
+    "con": {
+      "category": "Containers",
+      "words": [
+        "bookshelf",
+        "dispenser"
+      ]
+    },
+    "mat": {
+      "category": "Materials",
+      "words": [
+        "cardboard",
+        "fireproof",
+        "wallpaper"
+      ]
+    },
+    "gam": {
+      "category": "Games",
+      "words": [
+        "Minecraft",
+        "Overwatch",
+        "hopscotch"
+      ]
+    },
+    "bra": {
+      "category": "Brands",
+      "words": [
+        "Instagram",
+        "McDonalds",
+        "Microsoft",
+        "PewDiePie",
+        "Photoshop",
+        "Starbucks"
+      ]
+    }
   }
   
 }
