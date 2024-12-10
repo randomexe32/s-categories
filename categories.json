@@ -2402,6 +2402,243 @@
         "Starbucks"
       ]
     }
-  }
+  },
+
+  "10": {
+"fac": {
+"category": "Face Features",
+"words": []
+},
+"bod": {
+"category": "Body Parts",
+"words": [
+"collarbone",
+"fingernail"
+]
+},
+"ani": {
+"category": "Animals",
+"words": [
+"anglerfish",
+"chimpanzee",
+"chinchilla",
+"cuttlefish",
+"rhinoceros",
+"roadrunner",
+"woodpecker"
+]
+},
+"fla": {
+"category": "Flags/Countries",
+"words": [
+"Antarctica",
+"California",
+"Madagascar",
+"Washington"
+]
+},
+"pro": {
+"category": "Professions",
+"words": [
+"aristocrat",
+"blacksmith",
+"bricklayer",
+"pharmacist",
+"programmer",
+"translator",
+"weatherman"
+]
+},
+"foo": {
+"category": "Foods",
+"words": [
+"blackberry",
+"buttermilk",
+"cappuccino",
+"cheesecake",
+"fettuccine",
+"grapefruit",
+"mayonnaise",
+"mozzarella",
+"prosciutto",
+"quesadilla",
+"strawberry",
+"watermelon"
+]
+},
+"dri": {
+"category": "Drinks",
+"words": [
+"buttermilk",
+"cappuccino"
+]
+},
+"spo": {
+"category": "Sports",
+"words": [
+"basketball",
+"gymnastics",
+"skateboard",
+"volleyball"
+]
+},
+"clo": {
+"category": "Clothes",
+"words": [
+"chestplate",
+"sunglasses"
+]
+},
+"tec": {
+"category": "Technology",
+"words": [
+"calculator",
+"controller",
+"microphone",
+"microscope",
+"smartphone",
+"television",
+"typewriter"
+]
+},
+"nat": {
+"category": "Nature",
+"words": [
+"atmosphere",
+"earthquake",
+"rainforest",
+"tumbleweed"
+]
+},
+"veh": {
+"category": "Vehicles",
+"words": [
+"battleship",
+"helicopter",
+"hovercraft",
+"motorcycle",
+"snowmobile"
+]
+},
+"bui": {
+"category": "Buildings/Places",
+"words": [
+"greenhouse",
+"laboratory",
+"lighthouse",
+"Notre-Dame",
+"plantation",
+"playground",
+"restaurant",
+"skyscraper",
+"Stonehenge",
+"university",
+"wonderland"
+]
+},
+"mus": {
+"category": "Music",
+"words": [
+"contrabass",
+"didgeridoo",
+"gramophone",
+"tambourine"
+]
+},
+"emo": {
+"category": "Emotions/States",
+"words": [
+"disgusting",
+"invincible",
+"overweight",
+"protection",
+"punishment"
+]
+},
+"cha": {
+"category": "Characters",
+"words": [
+"Cinderella",
+"Goldilocks",
+"Illuminati",
+"leprechaun",
+"Markiplier",
+"Terminator"
+]
+},
+"spa": {
+"category": "Space",
+"words": [
+"atmosphere"
+]
+},
+"wea": {
+"category": "Weapons",
+"words": [
+"cannonball",
+"guillotine",
+"lightsaber",
+"razorblade"
+]
+},
+"too": {
+"category": "Tools",
+"words": [
+"binoculars",
+"broomstick",
+"chalkboard",
+"chopsticks",
+"dishwasher",
+"flashlight",
+"floodlight",
+"headphones",
+"jackhammer",
+"nightlight",
+"nutcracker",
+"protractor",
+"silverware",
+"tablecloth",
+"toothbrush",
+"toothpaste",
+"whiteboard",
+"windshield"
+]
+},
+"act": {
+"category": "Actions",
+"words": [
+"brainstorm",
+"breakdance",
+"extinction",
+"graduation",
+"quarantine",
+"reflection"
+]
+},
+"con": {
+"category": "Containers",
+"words": [
+"dictionary"
+]
+},
+"mat": {
+"category": "Materials",
+"words": [
+"plexiglass"
+]
+},
+"gam": {
+"category": "Games",
+"words": [
+"skribbl.io"
+]
+},
+"bra": {
+"category": "Brands",
+"words": [
+"Markiplier"
+]
+}
+}
   
 }
