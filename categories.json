@@ -2639,6 +2639,178 @@
 "Markiplier"
 ]
 }
+},
+
+"11": {
+"fac": {
+"category": "Face Features",
+"words": []
+},
+"bod": {
+"category": "Body Parts",
+"words": [
+"fingerprint"
+]
+},
+"ani": {
+"category": "Animals",
+"words": [
+"caterpillar",
+"grasshopper",
+"hummingbird",
+"Pterodactyl",
+"rattlesnake",
+"Stegosaurus",
+"Triceratops"
+]
+},
+"fla": {
+"category": "Flags/Countries",
+"words": [
+"Netherlands",
+"Philippines",
+"Switzerland"
+]
+},
+"pro": {
+"category": "Professions",
+"words": [
+"cheerleader",
+"electrician",
+"executioner",
+"firefighter",
+"gravedigger",
+"hairdresser",
+"philosopher",
+"quarterback"
+]
+},
+"foo": {
+"category": "Foods",
+"words": [
+"cauliflower",
+"gingerbread",
+"marshmallow",
+"pomegranate"
+]
+},
+"dri": {
+"category": "Drinks",
+"words": []
+},
+"spo": {
+"category": "Sports",
+"words": [
+"paragliding",
+"Rollerblade"
+]
+},
+"clo": {
+"category": "Clothes",
+"words": [
+"bulletproof"
+]
+},
+"tec": {
+"category": "Technology",
+"words": [
+"electricity",
+"motherboard",
+"Playstation",
+"speedometer",
+"thermometer",
+"ventilation"
+]
+},
+"nat": {
+"category": "Nature",
+"words": [
+"agriculture",
+"countryside",
+"environment",
+"temperature",
+"underground"
+]
+},
+"veh": {
+"category": "Vehicles",
+"words": []
+},
+"bui": {
+"category": "Buildings/Places",
+"words": [
+"observatory",
+"supermarket",
+"underground"
+]
+},
+"mus": {
+"category": "Music",
+"words": []
+},
+"emo": {
+"category": "Emotions/States",
+"words": [
+"comfortable",
+"color-blind",
+"uninhabited",
+"underweight"
+]
+},
+"cha": {
+"category": "Characters",
+"words": [
+"Shakespeare"
+]
+},
+"spa": {
+"category": "Space",
+"words": [
+"observatory"
+]
+},
+"wea": {
+"category": "Weapons",
+"words": [
+"firecracker"
+]
+},
+"too": {
+"category": "Tools",
+"words": [
+"highlighter",
+"screwdriver",
+"wheelbarrow"
+]
+},
+"act": {
+"category": "Actions",
+"words": [
+"subtraction"
+]
+},
+"con": {
+"category": "Containers",
+"words": []
+},
+"mat": {
+"category": "Materials",
+"words": [
+"bulletproof"
+]
+},
+"gam": {
+"category": "Games",
+"words": [
+"Minesweeper"
+]
+},
+"bra": {
+"category": "Brands",
+"words": [
+"Playstation"
+]
+}
 }
   
 }
