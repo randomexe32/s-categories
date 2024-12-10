@@ -1784,6 +1784,291 @@
         "Youtube"
       ]
     }
-  }
+  },
+
+  "8": {
+"fac": {
+"category": "Face Features",
+"words": [
+"nostril"
+]
+},
+"bod": {
+"category": "Body Parts",
+"words": [
+"shoulder"
+]
+},
+"ani": {
+"category": "Animals",
+"words": [
+"aardvark",
+"anaconda",
+"anteater",
+"antelope",
+"blowfish",
+"chipmunk",
+"crayfish",
+"dinosaur",
+"elephant",
+"flamingo",
+"goldfish",
+"hedgehog",
+"kangaroo",
+"mosquito",
+"platypus",
+"scorpion",
+"seahorse",
+"starfish",
+"stingray",
+"tapeworm",
+"tortoise",
+"werewolf"
+]
+},
+"fla": {
+"category": "Flags/Countries",
+"words": [
+"Colombia",
+"Pakistan",
+"Portugal",
+"Scotland",
+"Slovakia",
+"Thailand",
+"Zimbabwe"
+]
+},
+"pro": {
+"category": "Professions",
+"words": [
+"gardener",
+"magician",
+"mechanic",
+"reporter",
+"shepherd",
+"wrestler",
+"youtuber"
+]
+},
+"foo": {
+"category": "Foods",
+"words": [
+"baguette",
+"broccoli",
+"calamari",
+"cucumber",
+"dumpling",
+"eggplant",
+"habanero",
+"hazelnut",
+"jalapeno",
+"macaroni",
+"meatball",
+"meatloaf",
+"mushroom",
+"sardines",
+"tiramisu",
+"tortilla",
+"zucchini"
+]
+},
+"dri": {
+"category": "Drinks",
+"words": [
+"espresso",
+"kombucha",
+"lemonade"
+]
+},
+"spo": {
+"category": "Sports",
+"words": [
+"baseball",
+"lacrosse",
+"minigolf"
+]
+},
+"clo": {
+"category": "Clothes",
+"words": [
+"bathrobe",
+"leggings",
+"overalls",
+"slippers",
+"swimsuit",
+"trousers"
+]
+},
+"tec": {
+"category": "Technology",
+"words": [
+"computer",
+"internet",
+"wireless"
+]
+},
+"nat": {
+"category": "Nature",
+"words": [
+"asteroid",
+"blizzard",
+"campfire",
+"mountain",
+"raindrop",
+"sapphire",
+"seashell",
+"sunshine"
+]
+},
+"veh": {
+"category": "Vehicles",
+"words": [
+"aircraft",
+"airplane",
+"sailboat",
+"unicycle",
+"zeppelin"
+]
+},
+"bui": {
+"category": "Buildings/Places",
+"words": [
+"basement",
+"bathroom",
+"building",
+"doorknob",
+"driveway",
+"fortress",
+"hospital",
+"platform",
+"trapdoor",
+"upstairs",
+"windmill"
+]
+},
+"mus": {
+"category": "Music",
+"words": [
+"clarinet",
+"symphony",
+"theremin",
+"trombone"
+]
+},
+"emo": {
+"category": "Emotions/States",
+"words": [
+"complete",
+"confused",
+"disabled",
+"homeless",
+"negative",
+"positive",
+"pregnant",
+"strength"
+]
+},
+"cha": {
+"category": "Characters",
+"words": [
+"Cerberus",
+"Deadpool",
+"Einstein",
+"Garfield",
+"Godzilla",
+"Hercules",
+"Knuckles",
+"Minotaur",
+"Napoleon",
+"Poseidon",
+"Rapunzel",
+"Superman"
+]
+},
+"spa": {
+"category": "Space",
+"words": [
+"universe"
+]
+},
+"wea": {
+"category": "Weapons",
+"words": [
+"chainsaw",
+"crossbow",
+"revolver",
+"scimitar"
+]
+},
+"too": {
+"category": "Tools",
+"words": [
+"scissors",
+"shoehorn",
+"teaspoon"
+]
+},
+"act": {
+"category": "Actions",
+"words": [
+"backflip",
+"converge",
+"delivery",
+"download",
+"exercise",
+"headbutt",
+"levitate",
+"shopping",
+"swelling",
+"violence",
+"wrapping"
+]
+},
+"con": {
+"category": "Containers",
+"words": [
+"canister",
+"cauldron",
+"cupboard",
+"nutshell",
+"suitcase"
+]
+},
+"mat": {
+"category": "Materials",
+"words": [
+"aluminum",
+"chemical",
+"concrete",
+"graphite",
+"nitrogen",
+"obsidian"
+]
+},
+"gam": {
+"category": "Games",
+"words": [
+"checkers",
+"Fortnite",
+"Miniclip",
+"Nintendo",
+"Scrabble",
+"Terraria"
+]
+},
+"bra": {
+"category": "Brands",
+"words": [
+"Facebook",
+"Mercedes",
+"Pringles",
+"Skittles",
+"Skrillex",
+"Snapchat",
+"Sriracha",
+"WhatsApp"
+]
+}
+}
   
 }
